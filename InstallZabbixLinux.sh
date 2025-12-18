@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # ==============================================================================
 #  SCRIPT DE AUTO-INSTALACION ZABBIX AGENT 2 (MULTI-OS)
 #  Soporta: Ubuntu (20.04/22.04/24.04), Debian 12, RHEL/CentOS/Alma (7/8/9)
